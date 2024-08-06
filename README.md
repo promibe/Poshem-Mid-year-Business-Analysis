@@ -18,13 +18,18 @@ What is the timeframe of the dataset? (Start and end date)
 
 ● How many rows and columns are there in the dataset?
 
+
 ● Are there missing values? If yes list them and fix them
+
 
 ● What are the data types of each column?
 
+
 ● Are there duplicates in the dataset? If yes list them and fix them
 
+
 ● Give a quick statistical description of numerical contents in the dataset.
+
 
 
 #### Understandind the dataset columns
@@ -68,49 +73,75 @@ What is the timeframe of the dataset? (Start and end date)
 #### Exploratory Data Analysis (EDA) Questions:
 ##### Overview:
 ● What is the timeframe of the dataset? (Start and end date)
+
 ● How many rows and columns are there in the dataset?
+
 ● Are there missing values? If yes list them and fix them
+
 ● What are the data types of each column?
+
 ● Are there duplicates in the dataset? If yes list them and fix them
+
 ● Give a quick statistical description of numerical contents in the dataset.
+
 
 ##### Order Statistics:
 ● How many unique orders are there in the dataset?
+
 ● What is the distribution of order statuses (e.g., delivered, pending)?
+
 ● How many unique customers are there?
+
 
 ##### Geographical Insights:
 ● Which countries are included in the dataset?
+
 ● What is the distribution of orders across different regions?
+
 ● Can you identify the top 5 cities with the highest number of orders?
+
 
 ##### Product Categories:
 ● How many unique product categories are there?
+
 ● What are the most popular product categories based on sales?
+
 ● Can you identify the top 5 selling products?
+
 
 ##### Customer Segmentation:
 ● How are customers segmented based on the "Segment" column?
+
 ● What is the average order value for each customer segment?
+
 
 ##### Shipping Insights:
 ● What are the different shipping modes available?
+
 ● How does the shipping mode relate to the order date and delivery date?
+
 ● Are there any patterns in shipping modes based on regions?
+
 
 ##### Sales Distribution:
 ● What is the overall distribution of sales values?
+
 ● Are there any outliers in the sales data?
+
 ● Can you visualize the distribution of sales for each product category?
+
 
 ##### Project Deliverables:
 ● Summary of key findings.
+
 ● Any actionable recommendations based on the analysis.
+
 Display all this information using either Seaborn or Matplotlib
 
 #### Project Deliverables:
 
 ● Summary of key findings
+
 From the datase, the following insight were found
 
 1. The time frame of the dataset?  <b>Start date is:</b> 3rd January 2015  -- <b>End date is:</b>    30th December 2018
